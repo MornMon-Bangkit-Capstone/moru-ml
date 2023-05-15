@@ -1,2 +1,7 @@
 Collaborative/
 .env
+model/book_c-bd_cos.pkl
+model/book_pivot.pkl
+model/cek1.pkl
+model/cek.pkl
+model/indices.pkl
