@@ -1,0 +1,58 @@
+Sports;Description;Duration (Min);Location;Number of people;Equipment
+Joging;A form of trotting or running at a slow or leisurely pace and maintaining a steady speed for longer periods of time.;20-30;Outdoor;1;No
+Running;The action of rapidly propelling yourself forward on foot. When running, there is a moment when both feet are off the ground, making it a high-impact exercise.;20-30;Outdoor;1;No
+Jumping Rope;A form of exercise that involves swinging a rope around your body and jumping over it as it passes under your feet.;1-5;Indoor;1;Yes
+Aerobic;A series of movements accompanied by musical rhythms with a certain duration of time associated with oxygen or using oxygen.;15-20;Indoor;1;No
+Yoga;A practice that connects the body, breath, and mind. It uses physical postures, breathing exercises, and meditation to improve overall health.;20-40;Indoor;1;No
+Weightlifting;The sport of lifting a barbell loaded with weight plates from the ground up.;20-45;Indoor;1;Yes
+Stationary Biking;An indoor exercise machine that is pedaled like a bicycle;30-40;Indoor;1;Yes
+Treadmill;A stationary exercise machine that features a walking or running belt designed for indoor cardio exercise.;20-30;Indoor;1;Yes
+Cycling;Bicycling is the use of a bicycle for personal transportation, exercise, or touring and other forms of recreation.;45-60;Outdoor;1;Yes
+Dancing;The act of rhythmically moving the body and feet. This is usually done to music, and the dancer often follows an established pattern of steps.;30-40;Indoor;1;No
+Volleyball;A sports game played by two opposing groups. by hitting the ball so that it passes over the top of the net in the middle of the field.;50-60;Outdoor;10-12;Yes
+Zumba;Zumba is an interval workout. The classes move between high- and low-intensity dance moves designed to get your heart rate up and boost cardio endurance.;30-40;Indoor;1;No
+Badminton;Badminton is a racket sport that is played by two or four players. Game play involves the players striking a shuttlecock over a net into their opposition's side of the court.;50-60;Outdoor;2-4;Yes
+Table Tennis;Table tennis is a game played inside by two or four people. The players stand at each end of a table which has a low net across the middle and hit a small light ball over the net, using small bats.;50-60;Indoor;2-4;Yes
+Taekwondo;Taekwondo is a Korean martial arts involving punching and kicking techniques, with emphasis on head-height kicks, spinning jump kicks, and fast kicking techniques;30-50;Indoor;1-2;No
+Tennis;Tennis is a game played inside by two or four people who use strictly strung rackets to hit a ball of specified size, weight, and bounce over a net on a rectangular court.;50-60;Outdoor;2-4;Yes
+Swimming;Swimming is a sport the propulsion of the body through water by combined arm and leg motions and the natural flotation of the body.;30-40;Outdoor;1;Yes
+Basketball;Basketball is a game played between two teams of five players each on a rectangular court. Each team tries to score by tossing the ball through the opponent’s goal, an elevated horizontal hoop and a net called a basket.;50-60;Outdoor;1;Yes
+Golf;It is a game played on a large outdoor course, the object being to propel a small hard ball into a series of 'holes' with as few strokes as possible, using a variety of wood or iron-tipped sticks.;180-240;Outdoor;1;Yes
+Football;Football is a game involving two teams of 11 players who try to maneuver the ball into the other team's goal without using their hands or arms.;50-60;Outdoor;10-12;Yes
+Handball;Handball is a game is contested by two teams of seven players and involves one team invading another team's territory with the aim of throwing a ball into their opponent's goal.;50-60;Outdoor;10-12;Yes
+Judo;Judo is a martial art that emphasizes the use of quick movement and leverage to throw an opponent.;30-50;Indoor;1-2;No
+Boxing;Boxing is a combat sport in which two people, usually wearing protective gloves and other protective equipment such as hand wraps and mouthguards, throw punches at each other for a predetermined amount of time in a boxing ring.;30-50;Indoor;1;Yes
+Muay thai;Muay Thai is a combat sport that uses stand-up striking along with various clinching techniques.;30-50;Indoor;1;Yes
+Horseback Riding;the art of riding a horse and controlling the animal's movement and speed with maximum effectiveness and minimum efforts.;30-45;Outdoor;1;Yes
+Fencing;Fencing is a sport in which two competitors fight each other using very thin swords.;20-30;Indoor;1-2;Yes
+Hockey;A sport in which two teams play against each other by attempting to aim a piece of play, either a ball or a disc (such as a puck), at the opponent's goal with a hockey stick.;50-60;Outdoor;10-12;Yes
+Rugbi;A team game played with an oval ball that may be kicked, carried, and passed from hand to hand.;50-60;Outdoor;10-12;Yes
+Wrestling;A sport or contest in which two unarmed individuals struggle hand to hand with each attempting to subdue or unbalance the other;30-50;Indoor;1-2;Yes
+Pilates ;Pilates is a form of exercise that concentrates on strengthening the body with an emphasis on core strength. ;20-40;Indoor;1;No
+Wall Climbing;Wall climbing is a miniaturized form of rock climbing, where the participants climb artificial surfaces constructed from wood or other materials and built either indoors or outdoors.;15-30;Outdoor;1;Yes
+Futsal;Futsal is a form of small-sided indoor football. It is played between two teams who each have five players on the pitch at any one time, with a smaller ball than soccer that is harder and less bouncy.;50-60;Outdoor;10-12;Yes
+Candlestick;A candle stick is a shoulder stand position where the gymnast is essentially resting on the back of their shoulders with their feet pointed towards the ceiling.;15-20;Indoor;1;No
+Donkey Kickback;Donkey kick is a position keeping the right knee bent at a 90-degree angle, lifting the right leg out to the side;1-5;Indoor;1;No
+Elliptical Training;The type of exercise produced by this machine is walking as well as climbing stairs.;1-5;Indoor;1;No
+Crunches;Position that bend your knees and place your arms across your chest. Contract your abs and inhale. Exhale and lift your upper body, keeping your head and neck relaxed.;1-5;Indoor;1;No
+Shoulder Touch;Shoulder taps imitate the starting position of the high plank but include more arm movement of using each palm to tap the opposite shoulder;1-5;Indoor;1;No
+Lunges;A lunge is a position of the human body where one leg is positioned forward with knee bent and foot flat on the ground while the other leg is positioned behind.;1-5;Indoor;1;No
+Leg Lifts;Leg lifts are a challenging exercise designed to target the lower and upper abdominal muscles, and build strength in this region;1-5;Indoor;1;No
+Stepping;Movement using one or all of the stairs, do up and down the stairs.;1-5;Indoor;1;No
+Scissor Kick;The movement spread your legs wide apart and begin a scissor-cross motion alternating between the front and back legs.;1-5;Indoor;1;No
+Windmill;The movement stand with your feet wide apart and then bending over with your arms outstretched, do it alternately on both sides;1-5;Indoor;1;No
+Calf Raises;With your feet together, perform a tiptoe resting on your toes to loosen and tighten your calves.;1-5;Indoor;1;No
+Plank;Movement by lifting the body slowly by relying on the hand. Legs and back are in a straight position.;1-5;Indoor;1;No
+Side Plank;Lying position with the position of the body facing sideways. Then, slowly lift your body by leaning on your right hand. Legs, hips and back are in a straight position.;1-5;Indoor;1;No
+Jumping Jack;Movement by starting with your hands by your side and feet parallel. As you jump in the air, spread your arms and legs apart, then end with your arms back to your sides and your feet together as you land again.;1-5;Indoor;1;No
+Squat;Movement by starting in a standing position with your feet shoulder-width apart. Squat down to your knees, then stand up again.;1-5;Indoor;1;No
+Push-up;Push-ups are an exercise in which a person, keeping a prone position, with the hands palms down under the shoulders, the balls of the feet on the ground, and the back straight, pushes the body up and lets it down by an alternate straightening and bending of the arms.;1-5;Indoor;1;No
+Sit-up;A conditioning exercise performed from a supine position by raising the torso to a sitting position and returning to the original position without using the arms or lifting the feet;1-5;Indoor;1;No
+Ball Crunch;"Stretch with the help of a gym ball.
+";1-5;Indoor;1;Yes
+Knee tuscks;Movement by standing with feet hip-width apart,Jump and bring your knees toward your body;1-5;Indoor;1;No
+Mountain Climbers;"Performed from a plank position, you'll alternate bringing one knee to your chest, then back out again, speeding up each time until you're ""running"" against the floor.";1-5;Indoor;1;No
+Stair Climbing;Stair climbing is a vertical exercise where you push down to lift your entire body up a stair.;1-5;Indoor;1;No
+Bridge;"Movement by lying on your back with your knees bent. Tighten the muscles in your stomach. Lift your hips off the floor until they are in line with your knees and shoulders.
+";1-5;Indoor;1;No
+Gym ;A gym is a club, building, or large room, usually containing a variety of specialized equipment, where people exercise and get fit.;40-50;Indoor;1;Yes
