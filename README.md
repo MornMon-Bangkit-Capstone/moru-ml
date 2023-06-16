@@ -14,6 +14,8 @@ Exercise Data [Link](https://github.com/MornMon-Bangkit-Capstone/moru-ml/blob/ma
 
 ## Saved Model
 
-Book Content Based Filtering Model [Link](
-Book Collabroative Model [Link](
-Exercise Contentt Based Filtering Model [Link](
+Book Content Based Filtering Model [Link](https://github.com/MornMon-Bangkit-Capstone/moru-ml/blob/main/model/cek1V2.pkl)
+
+Book Collabroative Model [Link](https://github.com/MornMon-Bangkit-Capstone/moru-ml/tree/main/model/model)
+
+Exercise Contentt Based Filtering Model [Link](https://github.com/MornMon-Bangkit-Capstone/moru-ml/blob/main/model/cosine_sim_df_sport.pkl)
